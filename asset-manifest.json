@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blazsoft/static/css/main.6bf58b6e.chunk.css",
+    "main.css": "/blazsoft/static/css/main.22cb6b5a.chunk.css",
     "main.js": "/blazsoft/static/js/main.1e4074f8.chunk.js",
     "main.js.map": "/blazsoft/static/js/main.1e4074f8.chunk.js.map",
     "runtime-main.js": "/blazsoft/static/js/runtime-main.7301147d.js",
@@ -10,14 +10,14 @@
     "static/js/3.9610782b.chunk.js": "/blazsoft/static/js/3.9610782b.chunk.js",
     "static/js/3.9610782b.chunk.js.map": "/blazsoft/static/js/3.9610782b.chunk.js.map",
     "index.html": "/blazsoft/index.html",
-    "static/css/main.6bf58b6e.chunk.css.map": "/blazsoft/static/css/main.6bf58b6e.chunk.css.map",
+    "static/css/main.22cb6b5a.chunk.css.map": "/blazsoft/static/css/main.22cb6b5a.chunk.css.map",
     "static/js/2.4a700091.chunk.js.LICENSE.txt": "/blazsoft/static/js/2.4a700091.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/blazsoft/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7301147d.js",
     "static/js/2.4a700091.chunk.js",
-    "static/css/main.6bf58b6e.chunk.css",
+    "static/css/main.22cb6b5a.chunk.css",
     "static/js/main.1e4074f8.chunk.js"
   ]
 }
